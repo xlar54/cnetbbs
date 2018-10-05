@@ -1,0 +1,29 @@
+8/13/2008
+
+Hello, Eddie here from the Inner Circle BBS.  telnet to: bbs.innercirclebbs.com
+
+Thank you for your interest in C-Net 128 BBS.  We feel this is the most robust and complete Bulletin Board System for the Commodore 128 computer.
+
+In this archive you will find a functional C-Net 128 BBS.  I'd like to call it 7.2+.  This is a compilation of the latest files and patches I found on the internet along with some bug fixes made by me to get the system operational again.
+
+This version of C-Net 128 will not work with a modem.  There is a tweak I made in prg.logon 1 to complete the connection so that it worked with my modified version of BBS Server (1.4.666 I call it) hacked to accept numeric result codes.  I will try to include the old version of prg.logon 1 (and name it old.logon 1) incase you want to use this with a modem.  Just remember this is untested and it may not work.
+
+The System Setup program does not create user groups correctly, so your fist task upon logging in for the first time is to go into system maintenance and create your user groups.   Making level 14 the highest SysOp, having access to everything (maybe I will leave my access groups in the archive so you don't have to go through all this).  Once you have this done, you will need to go back and edit your own account by logging in as a new user again, going into system maintenance and editing User ID #1.  Set everything to the max (where appropriate) and enable all flags.  Log off, log back on as User ID #1 (this can be made easy by holding down the CONTROL key while enabling LOCal mode).
+
+Then you should Edit Preferences (EP, from sysmaint) and set your BBS parameters, along with the MACS editor, then the System Message Generator, set up Subboards, UD's, Pfiles, GFiles, etc... 
+
+Since I've gotten this 7.2+ version working, it inspired WizardNJ (from the Wizbbs.dyndns.org) and Stiggity to contact Eric Pearson, the author, of which was working on a new version of C-Net 128, a more telnet friendly one.  As a result of that, and at the time of this document, I have hooked up with Eric Pearson, kept him motivated and assisted him with his new version, C-Net 128 vT1.  Check out bbs.cnet128.com for the latest supported version.  Also check out my BBS, bbs.innercirclebbs.com
+
+Thank you to Eric Pearson for allowing me to update the Zimmers Archive with this working version and allowing this to be released to the world.
+
+We encourage you to get the latest version of C-Net 128 as it has vastly changed from the 7.2+ version and all bugs have been fixed!!!!  This is meant as a teaser, and a trainer to get the feeling of C-Net 128 and understand all of the powerful features that C-Net has always been known for.
+
+Thank you again for checking out this archive and we'll be seeing you in the sub-boards!!!
+
+Long live C-Net, death to Internet Forums!  :)
+
+-Eddie 
+bbs.innercirclebbs.com:23
+
+Future World BBS:
+bbs.cnet128bbs.com:6400
